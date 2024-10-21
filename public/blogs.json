@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/k504Ndg/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Quantum Leap",
+      "author": "Dr. Evelyn Carter",
+      "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
+      "postedDate": "2024-10-15",
+      "readingTime": 12,
+      "hashtags": "#scifi, #timetravel, #quantumphysics"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/WkpNYCm/toy-bricks-table-with-word-blog.jpg",
+      "title": "The Whispering Woods",
+      "author": "Anya Petrova",
+      "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
+      "postedDate": "2023-05-22",
+      "readingTime": 18,
+      "hashtags": "#mystery, #horror, #supernatural"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/TB4r6jG/life-is-journey-exploration-adventure-traveling.jpg",
+      "title": "Alien Encounter",
+      "author": "Captain Alex Thorne",
+      "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
+      "postedDate": "2022-01-08",
+      "readingTime": 25,
+      "hashtags": "#space, #aliens, #sciencefiction"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/jVMYh87/architect-blueprint-draft-idea-construction-concept.jpg",
+      "title": "The Lost Crown",
+      "author": "Sir Henry Cavendish",
+      "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
+      "postedDate": "2021-07-12",
+      "readingTime": 30,
+      "hashtags": "#history, #adventure, #fantasy"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/R3qVJB4/wallpaperflare-com-wallpaper.jpg",
+      "title": "Atlantis Rising",
+      "author": "Dr. Maya Ramirez",
+      "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
+      "postedDate": "2020-03-25",
+      "readingTime": 15,
+      "hashtags": "#science, #discovery, #underwater"
+    }
+  ]
