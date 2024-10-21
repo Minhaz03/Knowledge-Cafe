@@ -7,7 +7,7 @@
       "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
       "postedDate": "2024-10-15",
       "readingTime": 12,
-      "hashtags": "#scifi, #timetravel, #quantumphysics"
+      "hashtags": ["#scifi", "#timetravel", "#quantumphysics"]
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
       "postedDate": "2023-05-22",
       "readingTime": 18,
-      "hashtags": "#mystery, #horror, #supernatural"
+      "hashtags": ["#mystery", "#horror", "#supernatural"]
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
       "postedDate": "2022-01-08",
       "readingTime": 25,
-      "hashtags": "#space, #aliens, #sciencefiction"
+      "hashtags": ["#space", "#aliens", "#sciencefiction"]
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
       "postedDate": "2021-07-12",
       "readingTime": 30,
-      "hashtags": "#history, #adventure, #fantasy"
+      "hashtags": ["#history", "#adventure", "#fantasy"]
     },
     {
       "id": 5,
@@ -47,6 +47,6 @@
       "image": "https://i.ibb.co.com/rpz3Lzy/9439678.jpg",
       "postedDate": "2020-03-25",
       "readingTime": 15,
-      "hashtags": "#science, #discovery, #underwater"
+      "hashtags": ["#science", "#discovery", "#underwater"]
     }
   ]
