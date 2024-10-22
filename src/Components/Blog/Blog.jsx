@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import { MdOutlineBookmarkAdded } from "react-icons/md";
 
 const Blog = ({ blog, handleAddToBookMark, handelMarkAsRead}) => {
-  const { title, cover, readingTime, author, image, postedDate, hashtags } =
+  const { id, title, cover, readingTime, author, image, postedDate, hashtags } =
     blog;
   return (
     <div className="mb-24 space-y-4 mt-5">
@@ -35,7 +35,7 @@ const Blog = ({ blog, handleAddToBookMark, handelMarkAsRead}) => {
           </span>
         ))}
       </p>
-      <button onClick={() => handelMarkAsRead(readingTime)}
+      <button onClick={() => handelMarkAsRead(id,readingTime)}
       className="text-purple-600 font-bold underline">Mark As Read</button>
     </div>
   );
